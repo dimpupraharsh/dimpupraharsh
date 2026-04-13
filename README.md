@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Praharsh Vijay Medi 
-<a align="right">
+
+# 👋 Hi, I'm Praharsh Vijay Medi  <a align="right">
   <a href="https://linkedin.com/in/praharshvijay">
     <img src="https://img.shields.io/badge/LinkedIn-Praharsh%20Vijay%20Medi-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
