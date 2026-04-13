@@ -83,19 +83,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🏆 Key Strengths
 
 ✔ Strong **Data Engineering + AI hybrid skillset**
