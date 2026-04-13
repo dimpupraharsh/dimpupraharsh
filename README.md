@@ -1,30 +1,29 @@
-[![](https://komarev.com/ghpvc/?username=dimpupraharsh&icon=0)](https://visitcount.itsvg.in)
-
-# 💫 About Me:
-
 # 👋 Hi, I'm Praharsh Vijay Medi
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+AI+Engineer;Building+Scalable+Data+Platforms;Exploring+Agentic+AI+Systems;Azure+%7C+Fabric+%7C+Spark+%7C+LLMs" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=750&lines=Data+Engineer+%7C+AI+Engineer;Building+Scalable+Data+Platforms;Designing+Lakehouse+Architectures;Exploring+Agentic+AI+Systems;Azure+%7C+Fabric+%7C+Spark+%7C+LLMs" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
+  <a href="https://linkedin.com/in/praharshvijay">
+    <img src="https://img.shields.io/badge/LinkedIn-Praharsh%20Vijay%20Medi-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+  <a href="mailto:praharsh789@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=dimpupraharsh&style=for-the-badge&color=0A66C2" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💡 **Data Engineer & AI Enthusiast** focused on building **scalable, production-grade data systems** and integrating them with **LLMs & Agentic AI workflows**.
+💡 **Data Engineer & AI Engineer** focused on building **scalable, production-grade data platforms** and integrating them with **LLMs & Agentic AI systems**.
 
 * 🏗 Architecting **modern lakehouse platforms** using Microsoft Fabric
-* 🤖 Building **AI-powered data applications (RAG + Agents)**
-* ☁️ Strong focus on **Azure ecosystem & distributed computing**
-* 📍 Based in **London, UK** – open to Data Engineering / AI roles
+* 🤖 Developing **AI-powered applications (RAG + Agents)**
+* ☁️ Specializing in **Azure ecosystem & distributed data systems**
+* 📍 Based in **London, UK** — open to Data Engineering / AI roles
 
 ---
 
@@ -33,29 +32,29 @@
 ### 🛍️ Ecommerce Lakehouse Platform (Microsoft Fabric)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Medallion-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data-OneLake-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Processing-Spark-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/BI-PowerBI-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Medallion-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data-OneLake-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/Processing-Spark-f59e0b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Analytics-PowerBI-facc15?style=flat-square" />
 </p>
 
-**🚀 Objective:** Build a **scalable, enterprise-grade analytics platform**
+🚀 **Objective:** Build a scalable, enterprise-grade analytics platform
 
 * **Storage** → OneLake + Delta Tables
 * **Ingestion** → Data Factory Pipelines (Batch + Incremental)
 * **Processing** → PySpark (Spark Notebooks)
 * **Serving** → Power BI dashboards (real-time insights)
 
-🎯 Focus: Performance, scalability, and production-ready architecture
+🎯 Focus: **Scalability, performance optimization, and production-ready architecture**
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Core Tech Stack
 
 ### ☁️ Data Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure,python,spark,databricks,postgres,git" />
+<img src="https://skillicons.dev/icons?i=azure,python,spark,databricks,postgres,git,docker" />
 </p>
 
 ### 🤖 AI / ML
@@ -64,12 +63,13 @@
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-### ⚙️ Tools & Frameworks
+### ⚙️ Frameworks & Tools
 
 <p>
 <img src="https://img.shields.io/badge/LangChain-Agentic%20Workflows-black?style=flat-square" />
 <img src="https://img.shields.io/badge/LlamaIndex-RAG-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-blue?style=flat-square" />
 </p>
 
 ---
@@ -79,61 +79,46 @@
 * ⚡ Agentic AI Systems & Autonomous Workflows
 * 🔗 Model Context Protocol (MCP)
 * 🧩 Multi-agent frameworks (Claude Code, NeMo, OpenClaw)
-* 🧠 LLM Evaluation & Fine-tuning
+* 🧠 LLM Evaluation, Fine-tuning & Optimization
 
 ---
 
 ## 🏆 Key Strengths
 
-✔ Strong **Data Engineering + AI hybrid skillset**
-✔ Hands-on with **real-world, end-to-end systems**
-✔ Focus on **scalable & production-ready architectures**
+✔ Strong **Data Engineering + AI hybrid expertise**
+✔ Experience building **end-to-end real-world systems**
+✔ Focus on **scalable, production-ready architectures**
 ✔ Ability to integrate **LLMs into data pipelines**
 
 ---
 
-## 🤝 Let's Collaborate
-
-I’m open to working on:
-
-* Data Engineering & Analytics Platforms
-* AI-powered applications (RAG / Agents)
-* Azure / Microsoft Fabric projects
-
----
-
-## 📫 Connect With Me
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Praharsh%20Vijay%20Medi-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  <img src="https://github-readme-stats.shion.dev/api?username=dimpupraharsh&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=dimpupraharsh&theme=codeSTACKr&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dimpupraharsh&theme=codeSTACKr&hide_border=true&layout=compact" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## 🤝 Collaboration
 
-💭 *"Turning data into intelligent systems is where engineering meets the future."*
+I’m open to collaborating on:
+
+* Data Engineering & Analytics Platforms
+* AI-powered systems (RAG / Agentic workflows)
+* Azure / Microsoft Fabric projects
+
+---
+
+## ⚡ Personal Philosophy
+
+💭 *"Transforming data into intelligent systems is where engineering meets the future."*
 
 ---
 
 ⭐ *If you find my work interesting, consider starring my repositories!*
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praharshvijay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praharsh789@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dimpupraharsh&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=dimpupraharsh&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dimpupraharsh&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-
-
-
