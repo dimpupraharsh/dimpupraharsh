@@ -1,10 +1,4 @@
-# 👋 Hi, I'm Praharsh Vijay Medi
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=750&lines=Data+Engineer+%7C+Applied+AI+%26+LLM+Systems;Building+Scalable+Data+Platforms;Designing+Lakehouse+Architectures;Azure+%7C+Fabric+%7C+Spark+%7C+LLMs" />
-</p>
-
-<p align="center">
+# 👋 Hi, I'm Praharsh Vijay Medi <p align="center">
   <a href="https://linkedin.com/in/praharshvijay">
     <img src="https://img.shields.io/badge/LinkedIn-Praharsh%20Vijay%20Medi-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
@@ -13,6 +7,12 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=dimpupraharsh&style=for-the-badge&color=0A66C2" />
 </p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=750&lines=Data+Engineer+%7C+Applied+AI+%26+LLM+Systems;Building+Scalable+Data+Platforms;Designing+Lakehouse+Architectures;Azure+%7C+Fabric+%7C+Spark+%7C+LLMs" />
+</p>
+
 
 ---
 
