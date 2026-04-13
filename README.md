@@ -20,9 +20,10 @@
 
 💡 **Data Engineer & AI Engineer** focused on building **scalable, production-grade data platforms** and integrating them with **LLMs & Agentic AI systems**.
 
-* 🏗 Architecting **modern lakehouse platforms** using Microsoft Fabric
-* 🤖 Developing **AI-powered applications (RAG + Agents)**
-* ☁️ Specializing in **Azure ecosystem & distributed data systems**
+* 🏗 Architecting **modern lakehouse platforms using Medallion Architecture (Bronze → Silver → Gold)**
+* 🤖 Developing **AI-powered applications (RAG + Agentic workflows)**
+* ☁️ Strong expertise in **Azure ecosystem (Azure ADLS Gen2, SQL Server, Fabric)**
+* 🗄 Experience working with **data warehouses, relational systems, and analytics layers**
 * 📍 Based in **London, UK** — open to Data Engineering / AI roles
 
 ---
@@ -33,17 +34,21 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Architecture-Medallion-2563eb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data-OneLake-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data-OneLake%20%2F%20ADLS%20Gen2-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/Warehouse-SQL%20Based-10b981?style=flat-square" />
   <img src="https://img.shields.io/badge/Processing-Spark-f59e0b?style=flat-square" />
   <img src="https://img.shields.io/badge/Analytics-PowerBI-facc15?style=flat-square" />
 </p>
 
 🚀 **Objective:** Build a scalable, enterprise-grade analytics platform
 
-* **Storage** → OneLake + Delta Tables
-* **Ingestion** → Data Factory Pipelines (Batch + Incremental)
+* **Architecture** → Medallion Architecture (Bronze, Silver, Gold layers)
+* **Storage** → OneLake + **Azure Data Lake Storage Gen2 (ADLS Gen2)**
+* **Ingestion** → Data Factory Pipelines (Batch + Incremental loads)
 * **Processing** → PySpark (Spark Notebooks)
-* **Serving** → Power BI dashboards (real-time insights)
+* **Warehouse Layer** → Structured **SQL-based warehouse for analytics serving**
+* **Serving** → Power BI dashboards (real-time business insights)
+* **Data Access** → Querying via **SQL Server & SQL Server Management Studio (SSMS)**
 
 🎯 Focus: **Scalability, performance optimization, and production-ready architecture**
 
@@ -55,6 +60,14 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=azure,python,spark,databricks,postgres,git,docker" />
+</p>
+
+### 🗄 Databases & Warehousing
+
+<p>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/ADLS%20Gen2-Storage-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Warehouse-Analytics-green?style=flat-square" />
 </p>
 
 ### 🤖 AI / ML
@@ -70,6 +83,7 @@
 <img src="https://img.shields.io/badge/LlamaIndex-RAG-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=flat-square" />
 <img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/SSMS-Database%20Management-grey?style=flat-square" />
 </p>
 
 ---
@@ -86,8 +100,9 @@
 ## 🏆 Key Strengths
 
 ✔ Strong **Data Engineering + AI hybrid expertise**
-✔ Experience building **end-to-end real-world systems**
-✔ Focus on **scalable, production-ready architectures**
+✔ Experience with **lakehouse + warehouse architectures**
+✔ Hands-on with **Azure ADLS Gen2, SQL Server, and Fabric ecosystem**
+✔ Focus on **scalable, production-ready data systems**
 ✔ Ability to integrate **LLMs into data pipelines**
 
 ---
