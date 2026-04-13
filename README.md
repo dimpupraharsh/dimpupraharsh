@@ -1,4 +1,4 @@
-[![](https://komarev.com/ghpvc/?username=dimpupraharsh&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=dimpupraharsh&icon=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 
