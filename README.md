@@ -2,6 +2,137 @@
 
 # 💫 About Me:
 
+# 👋 Hi, I'm Praharsh Vijay Medi
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+AI+Engineer;Building+Scalable+Data+Platforms;Exploring+Agentic+AI+Systems;Azure+%7C+Fabric+%7C+Spark+%7C+LLMs" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+## 🚀 About Me
+
+💡 **Data Engineer & AI Enthusiast** focused on building **scalable, production-grade data systems** and integrating them with **LLMs & Agentic AI workflows**.
+
+* 🏗 Architecting **modern lakehouse platforms** using Microsoft Fabric
+* 🤖 Building **AI-powered data applications (RAG + Agents)**
+* ☁️ Strong focus on **Azure ecosystem & distributed computing**
+* 📍 Based in **London, UK** – open to Data Engineering / AI roles
+
+---
+
+## 🏗 Featured Project
+
+### 🛍️ Ecommerce Lakehouse Platform (Microsoft Fabric)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Medallion-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data-OneLake-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Processing-Spark-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/BI-PowerBI-yellow?style=flat-square" />
+</p>
+
+**🚀 Objective:** Build a **scalable, enterprise-grade analytics platform**
+
+* **Storage** → OneLake + Delta Tables
+* **Ingestion** → Data Factory Pipelines (Batch + Incremental)
+* **Processing** → PySpark (Spark Notebooks)
+* **Serving** → Power BI dashboards (real-time insights)
+
+🎯 Focus: Performance, scalability, and production-ready architecture
+
+---
+
+## 🧠 Tech Stack
+
+### ☁️ Data Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,python,spark,databricks,postgres,git" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+### ⚙️ Tools & Frameworks
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-Agentic%20Workflows-black?style=flat-square" />
+<img src="https://img.shields.io/badge/LlamaIndex-RAG-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=flat-square" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+* ⚡ Agentic AI Systems & Autonomous Workflows
+* 🔗 Model Context Protocol (MCP)
+* 🧩 Multi-agent frameworks (Claude Code, NeMo, OpenClaw)
+* 🧠 LLM Evaluation & Fine-tuning
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Key Strengths
+
+✔ Strong **Data Engineering + AI hybrid skillset**
+✔ Hands-on with **real-world, end-to-end systems**
+✔ Focus on **scalable & production-ready architectures**
+✔ Ability to integrate **LLMs into data pipelines**
+
+---
+
+## 🤝 Let's Collaborate
+
+I’m open to working on:
+
+* Data Engineering & Analytics Platforms
+* AI-powered applications (RAG / Agents)
+* Azure / Microsoft Fabric projects
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Praharsh%20Vijay%20Medi-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💭 *"Turning data into intelligent systems is where engineering meets the future."*
+
+---
+
+⭐ *If you find my work interesting, consider starring my repositories!*
+
 
 
 ## 🌐 Socials:
