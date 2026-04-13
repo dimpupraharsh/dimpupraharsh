@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Praharsh Vijay Medi
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=750&lines=Data+Engineer+%7C+AI+Engineer;Building+Scalable+Data+Platforms;Designing+Lakehouse+Architectures;Exploring+Agentic+AI+Systems;Azure+%7C+Fabric+%7C+Spark+%7C+LLMs" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=750&lines=Data+Engineer+%7C+Applied+AI+%26+LLM+Systems;Building+Scalable+Data+Platforms;Designing+Lakehouse+Architectures;Azure+%7C+Fabric+%7C+Spark+%7C+LLMs" />
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 ## 🚀 About Me
 
-💡 **Data Engineer & AI Engineer** focused on building **scalable, production-grade data platforms** and integrating them with **LLMs & Agentic AI systems**.
+💡 **Data Engineer specializing in Applied AI & LLM systems**, building **scalable, production-grade data platforms** and intelligent workflows.
 
-* 🏗 Architecting **modern lakehouse platforms using Medallion Architecture (Bronze → Silver → Gold)**
-* 🤖 Developing **AI-powered applications (RAG + Agentic workflows)**
-* ☁️ Strong expertise in **Azure ecosystem (ADLS Gen2, SQL Server, Fabric)**
+* 🏗 Architecting **lakehouse platforms using Medallion Architecture (Bronze → Silver → Gold)**
+* 🤖 Building **AI-powered applications (RAG + Agentic workflows)**
+* ☁️ Strong expertise in **Azure ecosystem (ADLS Gen2, SQL Server, Microsoft Fabric)**
 * 🗄 Experience with **data warehouses & analytics systems**
 * 📍 Based in **London, UK** — open to Data Engineering / AI roles
 
@@ -36,12 +36,6 @@
   <img src="https://img.shields.io/badge/DP--100%20Azure%20Data%20Scientist-Associate-7c3aed?style=for-the-badge&logo=microsoft" />
   <img src="https://img.shields.io/badge/AI--900%20Azure%20AI%20Fundamentals-Fundamentals-f59e0b?style=for-the-badge&logo=microsoft" />
 </p>
-
-🎯 Validated expertise in:
-
-* Microsoft Fabric (Data Engineering & Analytics)
-* Azure Data Science & Machine Learning workflows
-* AI fundamentals and applied ML concepts
 
 ---
 
@@ -75,30 +69,43 @@
 
 ### ☁️ Data Engineering
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure,python,spark,databricks,postgres,git,docker" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,python,spark,postgres,git,docker" />
 </p>
+
+---
 
 ### 🗄 Databases & Warehousing
 
-<p>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/ADLS%20Gen2-Storage-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Warehouse-Analytics-green?style=flat-square" />
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADLS%20Gen2-Storage-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Warehouse-Analytics-10b981?style=for-the-badge" />
 </p>
+
+---
 
 ### 🤖 AI / ML
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
+
+---
+
+## 🌱 Currently Exploring
+
+* ⚡ Agentic AI Systems & Autonomous Workflows
+* 🔗 Model Context Protocol (MCP)
+* 🧩 Multi-agent frameworks (Claude Code, NeMo, OpenClaw)
+* 🧠 LLM Evaluation, Fine-tuning & Optimization
 
 ---
 
 ## 🏆 Key Strengths
 
 ✔ Certified across **Data Engineering, Analytics & AI (Microsoft ecosystem)**
-✔ Strong **Data Engineering + AI hybrid expertise**
+✔ Strong **Data Engineering + Applied AI expertise**
 ✔ Experience with **lakehouse + warehouse architectures**
 ✔ Hands-on with **ADLS Gen2, SQL Server, Fabric**
 ✔ Ability to integrate **LLMs into data pipelines**
@@ -112,15 +119,25 @@
   <img src="https://streak-stats.demolab.com/?user=dimpupraharsh&theme=codeSTACKr&hide_border=true" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dimpupraharsh&theme=codeSTACKr&hide_border=true&layout=compact" />
+</p>
+
 ---
 
 ## 🤝 Collaboration
 
-Open to:
+I’m open to collaborating on:
 
-* Data Engineering roles
-* AI / ML Engineering roles
-* Azure / Fabric-based projects
+* Data Engineering & Analytics Platforms
+* AI-powered systems (RAG / Agentic workflows)
+* Azure / Microsoft Fabric projects
+
+---
+
+## ⚡ Personal Philosophy
+
+💭 *"Transforming data into intelligent systems is where engineering meets the future."*
 
 ---
 
