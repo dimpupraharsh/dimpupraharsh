@@ -41,7 +41,7 @@
 
 ### 🛍️ Ecommerce Lakehouse Platform (Microsoft Fabric)
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Architecture-Medallion-2563eb?style=flat-square" />
   <img src="https://img.shields.io/badge/Data-OneLake%20%2F%20ADLS%20Gen2-7c3aed?style=flat-square" />
   <img src="https://img.shields.io/badge/Warehouse-SQL%20Based-10b981?style=flat-square" />
