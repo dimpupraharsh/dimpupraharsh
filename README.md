@@ -16,7 +16,6 @@
 ---
 
 ## 🚀 About Me
-
 💡 **Data Engineer specializing in Applied AI & LLM systems**, building **scalable, production-grade data platforms** and intelligent workflows.
 
 * 🏗 Architecting **lakehouse platforms using Medallion Architecture (Bronze → Silver → Gold)**
