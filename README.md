@@ -131,7 +131,8 @@ I’m open to collaborating on:
 
 * Data Engineering & Analytics Platforms
 * AI-powered systems (RAG / Agentic workflows)
-* Azure / Microsoft Fabric projects
+* Azure / Microsoft Fabric projects 
+* Powerbi / Data Analysis
 
 ---
 
