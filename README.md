@@ -23,7 +23,7 @@
 * 🏗 Architecting **lakehouse platforms using Medallion Architecture (Bronze → Silver → Gold)**
 * 🤖 Building **AI-powered applications (RAG + Agentic workflows)**
 * ☁️ Strong expertise in **Azure ecosystem (ADLS Gen2, SQL Server, Microsoft Fabric)**
-* 🗄 Experience with **data warehouses & analytics systems**
+* 🗄 Experience with **Data warehouses, Lakehouse & analytics systems**
 * 📍 Based in **London, UK** — open to Data Engineering / AI roles
 
 ---
