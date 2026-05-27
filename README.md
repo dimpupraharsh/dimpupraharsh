@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7C3AED&height=190&section=header&text=Praharsh%20Vijay%20Medi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20Microsoft%20Fabric%20%7C%20Azure%20%7C%20Applied%20AI&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:2563EB,100:7C3AED&height=210&section=header&text=Praharsh%20Vijay%20Medi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20Microsoft%20Fabric%20%7C%20Azure%20%7C%20Applied%20AI&descAlignY=58&descSize=17" alt="Praharsh Vijay Medi banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=850&lines=Building+scalable+data+platforms;Designing+lakehouse+and+warehouse+solutions;Microsoft+Fabric+%7C+Azure+%7C+Spark+%7C+Power+BI;Exploring+Applied+AI%2C+RAG+and+LLM+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+enterprise-grade+data+platforms;Designing+Microsoft+Fabric+lakehouse+solutions;Azure+%7C+SQL+%7C+Spark+%7C+Power+BI;Exploring+RAG%2C+LLMs+and+agentic+AI+workflows" alt="Typing animation" />
 
-<br/>
+<br/><br/>
 
 <a href="https://linkedin.com/in/praharshvijay">
   <img src="https://img.shields.io/badge/LinkedIn-Praharsh%20Vijay%20Medi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=dimpupraharsh&style=for-the-badge&color=0A66C2" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/dimpupraharsh?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
 
 </div>
 
@@ -20,23 +21,40 @@
 
 ## 👋 About Me
 
-I’m **Praharsh Vijay Medi**, a **Data Engineer / Applied AI enthusiast** based in **London, UK**.
+I’m **Praharsh Vijay Medi**, a **Data Engineer and Applied AI enthusiast** based in **London, UK**.
 
-I focus on building reliable data platforms that turn raw operational data into analytics-ready products using **Microsoft Fabric, Azure, SQL, Spark, Lakehouse architecture, and Power BI**. I also explore how **LLMs, RAG systems, and agentic workflows** can be integrated into modern data engineering solutions.
+I build reliable data platforms that turn raw operational data into analytics-ready products using **Microsoft Fabric, Azure, SQL, Spark, Lakehouse architecture, and Power BI**. I also explore how **LLMs, RAG systems, and agentic workflows** can be integrated into modern data engineering solutions.
 
-```yaml
-Current focus:
-  - Enterprise data platforms
-  - Microsoft Fabric lakehouse architecture
-  - Medallion architecture: Bronze → Silver → Gold
-  - Incremental data pipelines and data quality
-  - Power BI semantic models and business dashboards
-  - Applied AI, RAG, and LLM-enabled workflows
-```
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Current Focus
+
+- Enterprise data platforms
+- Microsoft Fabric lakehouse architecture
+- Medallion architecture: **Bronze → Silver → Gold**
+- Incremental pipelines and data quality
+- Power BI semantic models and dashboards
+
+</td>
+<td width="50%">
+
+### 🚀 Exploring
+
+- RAG and LLM-enabled workflows
+- Agentic AI systems
+- Model Context Protocol
+- Data validation and reconciliation
+- Production-ready analytics engineering
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Certifications
+## 🎓 Microsoft Certifications
 
 <div align="center">
 
@@ -49,7 +67,7 @@ Current focus:
 
 ---
 
-## 🏗️ Featured Project
+## 🏗️ Featured Work
 
 ### 🛍️ Ecommerce Lakehouse Platform — Microsoft Fabric
 
@@ -63,26 +81,24 @@ Current focus:
 
 </div>
 
-**Objective:** Build a scalable analytics platform that simulates a real enterprise migration into Microsoft Fabric.
+**Goal:** Build a scalable analytics platform that simulates a real enterprise migration into Microsoft Fabric.
 
-**What it demonstrates:**
-
-| Area | Implementation Focus |
+| Area | What it demonstrates |
 |---|---|
-| **Ingestion** | Batch and incremental loading using pipeline-style orchestration |
-| **Storage** | Raw, cleansed, and curated zones using a Medallion pattern |
+| **Ingestion** | Batch and incremental loading with pipeline-style orchestration |
+| **Storage** | Raw, cleansed, and curated zones using Medallion architecture |
 | **Transformation** | PySpark cleansing, conformance, joins, and business rules |
-| **Warehouse** | SQL-based serving layer for analytics and reporting |
+| **Serving Layer** | SQL warehouse / lakehouse serving model for analytics |
 | **Analytics** | Power BI dashboards, semantic models, and business KPIs |
-| **Engineering Quality** | Data validation, repeatable processing, and production-style architecture |
+| **Engineering Quality** | Data validation, repeatable processing, and production-style design |
 
 ---
 
 ## 🧰 Technical Toolkit
 
-### Data Engineering & Cloud
-
 <div align="center">
+
+### Data Engineering & Cloud
 
 <img src="https://skillicons.dev/icons?i=azure,python,postgres,docker,git,github" alt="Core tools" />
 
@@ -94,11 +110,9 @@ Current focus:
 <img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 
-</div>
+<br/><br/>
 
-### AI / ML / Applied LLM Systems
-
-<div align="center">
+### AI / ML / LLM Systems
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI ML tools" />
 
@@ -114,39 +128,56 @@ Current focus:
 
 ## 💼 What I Bring
 
-- Design and build **end-to-end data pipelines** from source ingestion to analytics-ready layers.
-- Apply **lakehouse architecture** principles using Bronze, Silver, and Gold layers.
+- Build **end-to-end data pipelines** from ingestion to analytics-ready layers.
+- Apply **lakehouse architecture** using Bronze, Silver, and Gold data layers.
 - Work with **SQL, Python, Spark, Power BI, Microsoft Fabric, and Azure services**.
-- Build business-facing dashboards with strong focus on **KPIs, data quality, and decision support**.
-- Explore **LLM-powered workflows** for intelligent automation, retrieval, and analytics.
+- Design dashboards focused on **KPIs, data quality, and decision support**.
+- Explore **LLM-powered workflows** for automation, retrieval, and analytics use cases.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dimpupraharsh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600" alt="GitHub Stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=dimpupraharsh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimpupraharsh&theme=tokyonight" alt="GitHub profile summary" />
 
 <br/><br/>
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimpupraharsh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=21600" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dimpupraharsh&theme=tokyonight" alt="Repositories per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dimpupraharsh&theme=tokyonight" alt="Most committed languages" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dimpupraharsh&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dimpupraharsh&theme=tokyonight&utcOffset=1" alt="Productive time" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=dimpupraharsh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
-> **Note:** GitHub stats cards are cached by the public stats service, so they may not refresh instantly after every commit.
+> Dynamic cards are generated by third-party public services and may be cached. If one service is temporarily down, the rest of the README will still render cleanly.
 
----
+<!--
+Optional dynamic contribution snake:
+1. Add the workflow file from github_contribution_snake_workflow.yml to `.github/workflows/github-contribution-snake.yml`.
+2. Run the workflow once from the GitHub Actions tab.
+3. After the `output` branch is generated, remove this comment block and use the section below.
 
-## 🌱 Currently Exploring
+## 🐍 Contribution Snake
 
-- Microsoft Fabric enterprise migration patterns
-- Metadata-driven ingestion pipelines
-- Data quality and reconciliation frameworks
-- RAG and agentic AI workflows
-- Model Context Protocol and tool-using AI systems
-- LLM evaluation, prompt testing, and production-readiness patterns
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dimpupraharsh/dimpupraharsh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dimpupraharsh/dimpupraharsh/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/dimpupraharsh/dimpupraharsh/output/github-snake.svg" />
+</picture>
+
+</div>
+-->
 
 ---
 
